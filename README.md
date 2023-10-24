@@ -5,3 +5,5 @@
 
 ## Meine Stats
 ![](https://github-readme-stats.vercel.app/api?username=Finn-paulsen&show_icons=true&theme=dracula)
+
+ github.com/{Finn-paulsen}?tab=achievements). 

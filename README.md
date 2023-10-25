@@ -11,8 +11,18 @@
 - ![Turtle](https://img.shields.io/badge/Turtle-1.0-green?style=for-the-badge)
 - ![Prettier](https://img.shields.io/badge/Prettier-2.5.5-ff69b4?style=for-the-badge)
 
+## Stats
+![](https://github-readme-stats.vercel.app/api?username=Finn-paulsen&show_icons=true&theme=radical)
+
+
+## Summary Card
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Finn-paulsen&theme=radical)
+
+## Most Used Language
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Finn-paulsen&theme=radical)
+
 ## Meine Projekte
-- [![To-Do App](https://img.shields.io/badge/To-Do%20App-View%20on%20GitHub-blue?style=for-the-badge)](https://github.com/Finn-paulsen/To-Do_App)
+- [![](https://img.shields.io/badge/GitHub-ToDo-Application?style=for-the-badge&logo=github)](https://github.com/Finn-paulsen/To-Do_App) 
 
 ## Social Media
 - [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-Profile-orange?style=for-the-badge)](https://stackoverflow.com/users/finn-paulsen)

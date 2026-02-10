@@ -5,7 +5,7 @@
 
 <img src="vault-boy-thumbs-up.png" width="120">
 
-*Crafting web experiences and automation tools with retro flair*
+*Crafting web experiences*
 
 ![Banner](Banner.gif)
 
@@ -13,11 +13,8 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=Finn-paulsen&color=green&style=flat-square)](https://github.com/Finn-paulsen)
 
 </div>
-
 <br>
-
 <br>
-
 <img align="right" src="vault-boy-repair.png" width="180">
 
 ## 🛠️ What I Do
@@ -28,20 +25,14 @@ I'm a **full-stack web developer** specializing in building modern websites, Dis
 - 🌐 Modern web applications with React & Tailwind
 - 🤖 Discord bots with advanced automation
 - 🗂️ Retro-futuristic file managers & tools
-- 🎮 Terminal UIs with vintage CRT effects
 
 **My philosophy:**
 - Write clean, maintainable, and well-documented code
 - Build tools that solve real problems elegantly
-- Keep the retro-futuristic aesthetic alive 🚀
-
+- Keep the retro-futuristic aesthetic alive 
 <br clear="right"/>
-
 <br>
-
-
 <br>
-
 <img align="left" src="vault-boy-science.png" width="180">
 
 ## 💻 Tech Stack
@@ -64,12 +55,8 @@ Git • VS Code • Discord.js • Linux • Windows
 
 **Currently exploring:**  
 Rust • TypeScript • Next.js • Cloud Deployment
-
 <br clear="left"/>
-
 <br>
-
-
 <br>
 
 <img align="right" src="vault-boy-hacking.png" width="180">
@@ -85,71 +72,36 @@ Rust • TypeScript • Next.js • Cloud Deployment
 | **Retro UIs** | HTML/CSS • Vintage Design | ✅ Complete |
 
 > 💡 Check out my pinned repositories for detailed projects!
-
 <br clear="right"/>
-
 <br>
-
-
 <br>
-
 <div align="center">
 
 <img src="vault-boy-intelligence.png" width="100">
 
 ## 📊 GitHub Stats
-
 <br>
 
 ![Metrics](./metrics.svg)
 
 </div>
-
 <br>
-
-
 <br>
-
 <img align="left" src="vault-boy-strength.png" width="180">
 
 ## 🎯 What I'm Up To
 
 **Learning & Growing:**
-- 🦀 Mastering Rust for system-level projects
 - ⚛️ Deep-diving into React ecosystem & Next.js
 - ☁️ Exploring cloud deployment & DevOps
 - 🧪 Contributing to open-source projects
-
-**Building Cool Stuff:**
-- 🌐 Production-ready web applications
-- 🤖 Intelligent Discord bots with advanced features
-- 🛠️ Developer tools that boost productivity
-- 🎨 More retro-inspired interfaces & experiences
-
 <br clear="left"/>
-
 <br>
-
-
 <br>
-
 <div align="center">
-
 <img src="vault-boy-wave.gif" width="120">
-
-## 📬 Get In Touch
-
-Want to collaborate on a project or chat about web dev, bots, or retro tech?  
-I'm always open to connecting with fellow developers!
-
-[![GitHub](https://img.shields.io/badge/GitHub-@Finn--paulsen-181717?style=for-the-badge&logo=github)](https://github.com/Finn-paulsen)
-
 <br>
-
 ```
 "Prepare for the future" — Vault-Tec Industries
 ```
-
-<sub>⚡ Powered by passion, curiosity & way too much coffee ☕</sub>
-
 </div>

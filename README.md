@@ -1,6 +1,6 @@
 <div align="center">
 
-![Banner](banner.gif)
+![Banner](scr="banner.gif")
 
 # Finn Paulsen
 ### Developer • Tinkerer • Vault Dweller

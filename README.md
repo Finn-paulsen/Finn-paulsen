@@ -1,7 +1,5 @@
 <div align="center">
 
-![Banner](Banner.gif)
-
 # Finn Paulsen
 ### Full-Stack Developer • Bot Creator • Vault Dweller
 
@@ -9,14 +7,14 @@
 
 *Crafting web experiences and automation tools with retro flair*
 
+![Banner](Banner.gif)
+
 [![GitHub followers](https://img.shields.io/github/followers/Finn-paulsen?style=flat-square&logo=github)](https://github.com/Finn-paulsen)
 [![Profile Views](https://komarev.com/ghpvc/?username=Finn-paulsen&color=green&style=flat-square)](https://github.com/Finn-paulsen)
 
 </div>
 
 <br>
-
----
 
 <br>
 
@@ -41,7 +39,6 @@ I'm a **full-stack web developer** specializing in building modern websites, Dis
 
 <br>
 
----
 
 <br>
 
@@ -72,7 +69,6 @@ Rust • TypeScript • Next.js • Cloud Deployment
 
 <br>
 
----
 
 <br>
 
@@ -94,7 +90,6 @@ Rust • TypeScript • Next.js • Cloud Deployment
 
 <br>
 
----
 
 <br>
 
@@ -112,7 +107,6 @@ Rust • TypeScript • Next.js • Cloud Deployment
 
 <br>
 
----
 
 <br>
 
@@ -136,7 +130,6 @@ Rust • TypeScript • Next.js • Cloud Deployment
 
 <br>
 
----
 
 <br>
 

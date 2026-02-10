@@ -14,8 +14,6 @@
 
 </div>
 
----
-
 <img align="right" src="vault-boy-repair.png" width="180">
 
 ## 🛠️ What I Do
@@ -34,8 +32,6 @@ I build **tools, automation scripts, and web applications** with a focus on clea
 
 <br clear="right"/>
 
----
-
 <img align="left" src="vault-boy-science.png" width="180">
 
 ## 💻 Tech Stack
@@ -50,8 +46,6 @@ Git • VS Code • Linux • Windows • PowerShell
 Rust • TypeScript • Modern Web Frameworks
 
 <br clear="left"/>
-
----
 
 <img align="right" src="vault-boy-hacking.png" width="180">
 
@@ -68,8 +62,6 @@ Rust • TypeScript • Modern Web Frameworks
 
 <br clear="right"/>
 
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -81,8 +73,6 @@ Rust • TypeScript • Modern Web Frameworks
 ![Metrics](./metrics.svg)
 
 </div>
-
----
 
 <img align="left" src="vault-boy-strength.png" width="180">
 

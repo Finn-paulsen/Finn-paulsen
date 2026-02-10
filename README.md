@@ -78,9 +78,9 @@ Rust • TypeScript • Modern Web Frameworks
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Finn-paulsen&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&icon_color=00ff41&text_color=c9d1d9&title_color=00ff41" width="49%">
+<img src="https://github-readme-stats.vercel.app/api?username=Finn-paulsen&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&icon_color=00ff41&text_color=c9d1d9&title_color=00ff41" width="49%" alt="GitHub Stats">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Finn-paulsen&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=00ff41" width="49%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Finn-paulsen&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=00ff41" width="49%" alt="Top Languages">
 
 </div>
 

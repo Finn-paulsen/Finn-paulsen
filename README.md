@@ -106,7 +106,7 @@ Rust • TypeScript • Modern Web Frameworks
 
 <div align="center">
 
-<img src="vault-boy-wave.png" width="120">
+<img src="vault-boy-wave.gif" width="120">
 
 ## 📬 Get In Touch
 

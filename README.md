@@ -1,39 +1,35 @@
 <div align="center">
 
 # Finn Paulsen
-### Full-Stack Developer • Bot Creator • Vault Dweller
+### Full-Stack Developer | Software Engineer
 
-<img src="vault-boy-thumbs-up.png" width="120">
-
-*Crafting web experiences*
+*Building elegant, scalable solutions for the web*
 
 ![Banner](Banner.gif)
 
 [![GitHub followers](https://img.shields.io/github/followers/Finn-paulsen?style=flat-square&logo=github)](https://github.com/Finn-paulsen)
-[![Profile Views](https://komarev.com/ghpvc/?username=Finn-paulsen&color=green&style=flat-square)](https://github.com/Finn-paulsen)
+[![Profile Views](https://komarev.com/ghpvc/?username=Finn-paulsen&color=blue&style=flat-square)](https://github.com/Finn-paulsen)
 
 </div>
-<br>
-<br>
-<img align="right" src="vault-boy-repair.png" width="180">
 
-## 🛠️ What I Do
-
-I'm a **full-stack web developer** specializing in building modern websites, Discord bots, and automation tools with a passion for clean code and retro aesthetics.
-
-**Currently building:**
-- 🌐 Modern web applications with React & Tailwind
-- 🤖 Discord bots with advanced automation
-- 🗂️ Retro-futuristic file managers & tools
-
-**My philosophy:**
-- Write clean, maintainable, and well-documented code
-- Build tools that solve real problems elegantly
-- Keep the retro-futuristic aesthetic alive 
-<br clear="right"/>
 <br>
+
+## 👋 About Me
+
+I'm a **full-stack developer** with expertise in modern web applications, backend automation, and cloud solutions. I specialize in writing clean, maintainable code and continuously improving my craft through learning from each project.
+
+**What I build:**
+- 🌐 **Web Applications** – Full-stack solutions with React, Tailwind CSS, and Node.js
+- 🤖 **Automation & Bots** – Discord bots, scripting, and system automation
+- 🗄️ **Data Solutions** – Database design, data analysis, and ETL pipelines
+- 🛠️ **Versatile Solutions** – Multi-language, multi-platform development
+
+**My approach:**
+- Write clean, maintainable, well-documented code
+- Learn from every mistake to improve future projects
+- Build tools that solve real-world problems efficiently
+
 <br>
-<img align="left" src="vault-boy-science.png" width="180">
 
 ## 💻 Tech Stack
 
@@ -47,61 +43,48 @@ I'm a **full-stack web developer** specializing in building modern websites, Dis
 **Backend & Scripting:**  
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
 
 **Tools & Platforms:**  
-Git • VS Code • Discord.js • Linux • Windows
+Git • Docker • VS Code • Linux • Windows • Cloud Services
 
 **Currently exploring:**  
-Rust • TypeScript • Next.js • Cloud Deployment
-<br clear="left"/>
-<br>
-<br>
+TypeScript • Next.js • Rust • Cloud Architecture
 
-<img align="right" src="vault-boy-hacking.png" width="180">
+<br>
 
 ## 📦 Featured Projects
 
-| Project | Tech Stack | Status |
-|---------|-----------|--------|
-| **Modern Web Apps** | React • Tailwind • Node.js | 🔨 Active |
-| **Discord Bots** | Python • Discord.js • C# | ✅ Operational |
-| **FileExplorer** | Terminal UI • CRT Effects | 🔨 In Development |
-| **Automation Scripts** | PowerShell • Bash • Python | ✅ Active |
-| **Retro UIs** | HTML/CSS • Vintage Design | ✅ Complete |
+| Project | Category | Tech Stack | Status |
+|---------|----------|-----------|--------|
+| **Web Applications** | Full-Stack Development | React • Tailwind • Node.js | 🔨 Active |
+| **Discord Bots** | Bot & Automation | Python • JavaScript • C# | ✅ Operational |
+| **Automation Scripts** | Backend & Scripting | Python • PowerShell • Bash | ✅ Active |
+| **Data Solutions** | Databases & Analysis | SQL • Python • ETL | 🔨 In Development |
 
-> 💡 Check out my pinned repositories for detailed projects!
-<br clear="right"/>
+> 💡 Explore my repositories for detailed project information!
+
 <br>
+
+## 🎯 Current Focus
+
+- 📚 **Continuous Learning** – Advancing skills in modern frameworks and cloud technologies
+- 🔄 **Code Quality** – Improving code structure and documentation
+- 🚀 **Full-Stack Mastery** – Deepening expertise across all development layers
+- 🤝 **Open Source** – Contributing to community projects
+
 <br>
+
 <div align="center">
 
-<img src="vault-boy-intelligence.png" width="100">
-
-## 📊 GitHub Stats
-<br>
+## 📊 GitHub Statistics
 
 ![Metrics](./metrics.svg)
 
-</div>
-<br>
-<br>
-<img align="left" src="vault-boy-strength.png" width="180">
+---
 
-## 🎯 What I'm Up To
+*"Excellence is not a skill, it's a habit."*
 
-**Learning & Growing:**
-- ⚛️ Deep-diving into React ecosystem & Next.js
-- ☁️ Exploring cloud deployment & DevOps
-- 🧪 Contributing to open-source projects
-<br clear="left"/>
-<br>
-<br>
-<div align="center">
-<img src="vault-boy-wave.gif" width="120">
-<br>
-```
-"Prepare for the future" — Vault-Tec Industries
-```
 </div>

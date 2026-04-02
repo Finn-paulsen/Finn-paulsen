@@ -3,9 +3,6 @@
 # Finn Paulsen
 ### Frontend Developer | Web Engineer
 
-
-![Banner](Banner.gif)
-
 [![GitHub followers](https://img.shields.io/github/followers/Finn-paulsen?style=flat-square&logo=github)](https://github.com/Finn-paulsen)
 [![Profile Views](https://komarev.com/ghpvc/?username=Finn-paulsen&color=blue&style=flat-square)](https://github.com/Finn-paulsen)
 

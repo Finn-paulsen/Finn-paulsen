@@ -1,9 +1,8 @@
 <div align="center">
 
 # Finn Paulsen
-### Full-Stack Developer | Software Engineer
+### Frontend Developer | Web Engineer
 
-*Building elegant, scalable solutions for the web*
 
 ![Banner](Banner.gif)
 
@@ -16,18 +15,15 @@
 
 ## 👋 About Me
 
-I'm a **full-stack developer** with expertise in modern web applications, backend automation, and cloud solutions. I specialize in writing clean, maintainable code and continuously improving my craft through learning from each project.
+I'm a **Frontend developer** with expertise in modern web applications. I specialize in writing clean, maintainable code and continuously improving my craft through learning from each project.
 
 **What I build:**
 - 🌐 **Web Applications** – Full-stack solutions with React, Tailwind CSS, and Node.js
 - 🤖 **Automation & Bots** – Discord bots, scripting, and system automation
-- 🗄️ **Data Solutions** – Database design, data analysis, and ETL pipelines
-- 🛠️ **Versatile Solutions** – Multi-language, multi-platform development
 
 **My approach:**
 - Write clean, maintainable, well-documented code
 - Learn from every mistake to improve future projects
-- Build tools that solve real-world problems efficiently
 
 <br>
 
@@ -50,30 +46,11 @@ I'm a **full-stack developer** with expertise in modern web applications, backen
 **Tools & Platforms:**  
 Git • Docker • VS Code • Linux • Windows • Cloud Services
 
-**Currently exploring:**  
-TypeScript • Next.js • Rust • Cloud Architecture
 
 <br>
 
-## 📦 Featured Projects
-
-| Project | Category | Tech Stack | Status |
-|---------|----------|-----------|--------|
-| **Web Applications** | Full-Stack Development | React • Tailwind • Node.js | 🔨 Active |
-| **Discord Bots** | Bot & Automation | Python • JavaScript • C# | ✅ Operational |
-| **Automation Scripts** | Backend & Scripting | Python • PowerShell • Bash | ✅ Active |
-| **Data Solutions** | Databases & Analysis | SQL • Python • ETL | 🔨 In Development |
 
 > 💡 Explore my repositories for detailed project information!
-
-<br>
-
-## 🎯 Current Focus
-
-- 📚 **Continuous Learning** – Advancing skills in modern frameworks and cloud technologies
-- 🔄 **Code Quality** – Improving code structure and documentation
-- 🚀 **Full-Stack Mastery** – Deepening expertise across all development layers
-- 🤝 **Open Source** – Contributing to community projects
 
 <br>
 
@@ -85,6 +62,5 @@ TypeScript • Next.js • Rust • Cloud Architecture
 
 ---
 
-*"Excellence is not a skill, it's a habit."*
 
 </div>

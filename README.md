@@ -20,9 +20,9 @@ I also use **AI-assisted tools** to speed up repetitive tasks, explore ideas, an
 For me, AI is just another part of a modern workflow — similar to using an IDE, Git, or a linter.
 
 **What I build:**
-- 🌐 **Web Applications** – Modern UIs with clean structure and maintainable code
-- 🤖 **Small Bots & Tools** – Discord bots, scripts, and helpful utilities
-- 🛠️ **Lightweight Backend Logic** – APIs, data handling, simple server logic
+-  **Web Applications** – Modern UIs with clean structure and maintainable code
+-  **Small Bots & Tools** – Discord bots, scripts, and helpful utilities
+-  **Lightweight Backend Logic** – APIs, data handling, simple server logic
 
 **How I work:**
 - Clean, readable, maintainable code
@@ -31,7 +31,7 @@ For me, AI is just another part of a modern workflow — similar to using an IDE
 
 <br>
 
-## 💻 Tech Stack
+##  Tech Stack
 
 **Web & Frontend:**  
 HTML • CSS • Tailwind • JavaScript • React
@@ -39,11 +39,8 @@ HTML • CSS • Tailwind • JavaScript • React
 **Backend & Scripting:**  
 Node.js • Python • Java • C# • PowerShell
 
-**Databases:**  
-SQL • Lightweight data processing
-
 **Tools & Platforms:**  
-Git • Docker • Linux • Windows
+Git • Linux • Windows
 
 <br>
 
@@ -52,11 +49,4 @@ Git • Docker • Linux • Windows
 <br>
 
 <div align="center">
-
-## 📊 GitHub Statistics
-
-![Metrics](./metrics.svg)
-
----
-
 </div>

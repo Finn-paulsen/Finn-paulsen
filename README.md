@@ -1,8 +1,11 @@
 <div align="center">
 
-# Finn Paulsen
-### Web Developer • Frontend & Small-Scale Backend
 
+# Finn Paulsen  
+### Web Developer • Frontend & Small-Scale Backend  
+`──────────────────────────────────────────────`
+
+<br>
 [![GitHub followers](https://img.shields.io/github/followers/Finn-paulsen?style=flat-square&logo=github)](https://github.com/Finn-paulsen)
 [![Profile Views](https://komarev.com/ghpvc/?username=Finn-paulsen&color=blue&style=flat-square)](https://github.com/Finn-paulsen)
 

@@ -1,7 +1,7 @@
 <div align="center">
 
 # Finn Paulsen
-### Full‑Stack Developer • Automation Engineer • Web Enthusiast
+### Web Developer • Frontend & Small-Scale Backend
 
 [![GitHub followers](https://img.shields.io/github/followers/Finn-paulsen?style=flat-square&logo=github)](https://github.com/Finn-paulsen)
 [![Profile Views](https://komarev.com/ghpvc/?username=Finn-paulsen&color=blue&style=flat-square)](https://github.com/Finn-paulsen)
@@ -12,21 +12,21 @@
 
 ## 👋 About Me
 
-I'm a **full‑stack developer** focused on building modern, reliable, and maintainable software.  
-My work ranges from **web applications** to **automation tools**, **Discord bots**, and **data‑driven systems**.
+I'm a **web developer** focused on building modern, lightweight, and practical web applications.  
+I work on everything from simple websites to small backend services and Discord bots.
 
-I use **AI‑assisted tooling** to speed up repetitive tasks, improve code quality, and stay focused on architecture and problem‑solving.  
-In today's workflow, AI is simply another tool — and I use it the same way I use Git, Docker, or an IDE.
+I also use **AI-assisted tools** to speed up repetitive tasks, explore ideas, and improve code quality.  
+For me, AI is just another part of a modern workflow — similar to using an IDE, Git, or a linter.
 
 **What I build:**
-- 🌐 **Web Applications** – Full‑stack solutions with modern frameworks and clean UI
-- 🤖 **Automation & Bots** – Discord bots, scripting, workflow automation
-- 🗄️ **Backend Services** – APIs, data processing, system logic
+- 🌐 **Web Applications** – Modern UIs with clean structure and maintainable code
+- 🤖 **Small Bots & Tools** – Discord bots, scripts, and helpful utilities
+- 🛠️ **Lightweight Backend Logic** – APIs, data handling, simple server logic
 
 **How I work:**
-- Clean, maintainable, well‑documented code
-- Iterative improvement through learning and experimentation
-- Practical, solution‑oriented engineering
+- Clean, readable, maintainable code
+- Practical solutions instead of over-engineering
+- Constant learning through real projects
 
 <br>
 
@@ -38,15 +38,15 @@ HTML • CSS • Tailwind • JavaScript • React
 **Backend & Scripting:**  
 Node.js • Python • Java • C# • PowerShell
 
-**Databases & Data:**  
-SQL • Data processing • Automation pipelines
+**Databases:**  
+SQL • Lightweight data processing
 
 **Tools & Platforms:**  
-Git • Docker • Linux • Windows • Cloud Services
+Git • Docker • Linux • Windows
 
 <br>
 
-> 💡 Check out my repositories for detailed project information.
+> 💡 Check out my repositories for project details.
 
 <br>
 

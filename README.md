@@ -3,7 +3,6 @@
 
 # Finn Paulsen  
 ### Web Developer • Frontend & Small-Scale Backend  
-`──────────────────────────────────────────────`
 
 <br>
 [![GitHub followers](https://img.shields.io/github/followers/Finn-paulsen?style=flat-square&logo=github)](https://github.com/Finn-paulsen)
